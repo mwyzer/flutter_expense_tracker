@@ -1,2 +1,2 @@
-# flutter_quiz_simple
+# flutter_transaction
 Flutter Quiz from Udemy Inc. course Max
